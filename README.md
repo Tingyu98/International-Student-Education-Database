@@ -13,5 +13,7 @@ Another limitation of the existing search engines is that while it is beneficial
 Having a centralized database allows for an efficient search and match process for students. This makes it possible to find more ideal matches, decreases the chance of overlooking an appropriate school and make it easier to evaluate all feasible options. Not only is tuition expensive, but the application fees can also add up. This database has the potential to help students allocate their time and money correctly.
 
 ## Approach and Solution Technologies:
-
+* Structured ER diagrams using MySQL Workbench, optimizing data organization.
+* Formulated SQL queries to refine application strategies, minimizing program mismatches.
+* Leveraged Tableau to uncover critical insights into admission rates and applicant distribution across states, guiding personalized application support.
 
